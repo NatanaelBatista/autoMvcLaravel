@@ -2,7 +2,7 @@
 
 Script used to automatically generate the main files used during development, contributing to productivity.
 
-![sch](https://github.com/NatanaelBatista/parsingLink/blob/main/autoMvcLaravel.png)
+![sch](https://github.com/NatanaelBatista/autoMvcLaravel/blob/main/autoMvcLaravel.png)
 
 ### Cloning:
 ```
@@ -15,5 +15,5 @@ cd autoMvcLaravel
 ```
 
 ```
-./auto.sh [repository name] [new module name. Ex: User] [source module. Ex: Company]
+bash auto.sh [repository name] [new module name. Ex: User] [source module. Ex: Company]
 ```
